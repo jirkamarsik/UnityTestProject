@@ -28,3 +28,18 @@ ExportedObj/
 *.unitypackage
 *.app
 *.exe
+
+# Excluding Playmaker from the repo
+Assets/PlayMaker
+Assets/PlayMaker.meta
+Assets/Gizmos
+Assets/Gizmos.meta
+Assets/iTween
+Assets/iTween.meta
+Assets/Plugins.meta
+Assets/Plugins/PlayMaker
+Assets/Plugins/PlayMaker.meta
+PlayMaker.dll
+PlayMaker.dll.mdb
+PlayMaker.dll.mdb.meta
+PlayMaker.dll.meta
